@@ -1,0 +1,21 @@
+usernames
+des
+u5
+realm:DENYDC
+
+found password in network miner
+
+des
+$krb5pa$23$des$DENYDC$$32d396a914a4d0a78e979ba75d4ff53c1db7294141760fee05e434c12ecf8d5b9aa5839e09a2244893aff5f384f79c37883f154a
+
+u5
+$krb5pa$23$u5$DENYDC$DENYDC.COMdes$daf324dccec73739f6e49ef8fde60a9f9dfff50551ff5a7e969c6e395f18b842fb17c3b503df3025ab5a9dfc3031e893c4002008
+
+use john to find password
+
+john hashfile
+
+
+password found:
+des:123
+u5:123
